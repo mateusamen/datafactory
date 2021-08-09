@@ -1,0 +1,9 @@
+{
+	"name": "introducaodatafactorymateus",
+	"location": "southcentralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "88e70040-fb8a-4169-96a7-8c146249d9d3",
+		"tenantId": "8564196c-e471-4c15-b24f-58d74ec0b7b7"
+	}
+}
